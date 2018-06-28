@@ -1,0 +1,4 @@
+To run program, unzip, add files to directory, and use makefile.  Type “./prog (insert filename, do not include “.txt” file extension)” to run executable.    
+Upon execution, file will automatically read in from filename.txt and write to filenamechange.txt.  After command line input, program will scan specified file for denominations and amount.  For each specified amount and denominations, program will test on 3 algorithms (brute force, greedy, and dynamic programming), outputing results for minimum coins and number of each denomination to output file.
+
+*Program has been tested on flip with no issues.
